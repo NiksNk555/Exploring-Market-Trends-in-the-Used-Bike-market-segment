@@ -1,0 +1,716 @@
+Company,Bike Model,Model Year,Price (Rs),Finance_Available(Yes/No),City,State
+Honda,Honda XBlade,2018,54000,Yes,Kolkata, West Bengal
+Honda,Honda SP125,2023,88000,Yes,Indore, Madhya Pradesh
+Jawa,Jawa 42 Bobber Black Mirror,2023,210000,Yes,Ghaziabad, Uttar Pradesh
+Suzuki,Suzuki V-Strom SX,2023,178000,Yes,Ahmedabad, Gujarat
+Hero,Hero Xtreme 200R,2019,50000,Yes,Gurgaon, Haryana
+Bajaj,Bajaj Avenger Street 150,2017,45000,Yes,Bangalore, Karnataka
+Ola,Ola S1 Pro,2022,110000,Yes,Chennai, Tamil Nadu
+KTM,KTM Duke 390,2017,110000,Yes,West Delhi, Delhi
+Yamaha,Yamaha FZS 25 BS6,2021,100000,Yes,Coimbatore, Tamil Nadu
+Hero,Hero HF Deluxe,2016,30000,Yes,North West Delhi, Delhi
+TVS,TVS Jupiter SmartXonnect Disc 2024,2024,110000,Yes,"Dombivli, Thane", Maharashtra
+Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2024,220000,Yes,"Goregaon, Mumbai", Maharashtra
+Bajaj,Bajaj Pulsar 125,2022,69500,Yes,Jamshedpur, Jharkhand
+TVS,TVS Apache RTR 160 4V Special Edition,2022,115000,Yes,"Atrauli, Aligarh", Uttar Pradesh
+Suzuki,Suzuki V-Strom SX 2025,2025,250000,Yes,"Sholinganallur, Chennai", Tamil Nadu
+Suzuki,Suzuki Access 125 BS6,2023,85000,Yes,Visakhapatnam, Andhra Pradesh
+Royal Enfield,Royal Enfield Bullet Standard 350,2025,230000,Yes,Pune, Maharashtra
+Yamaha,Yamaha R15 V4,2023,170000,Yes,Navi Mumbai, Maharashtra
+TVS,TVS Jupiter ZX BS6,2021,46000,Yes,Ghaziabad, Uttar Pradesh
+UM,UM Renegade Commando,2017,120000,Yes,"Bannerghatta Road, Bangalore", Karnataka
+Yamaha,Yamaha YZF R15 V3,2020,120000,Yes,Azamgarh, Uttar Pradesh
+Jawa,Jawa Jawa,2020,75000,Yes,Ghaziabad, Uttar Pradesh
+Ola,Ola S1 Pro Gen2,2024,120000,Yes,"Himayatnagar, Hyderabad", Telangana
+Ather,Ather 450X,2021,100000,Yes,"Bannerghatta Road, Bangalore", Karnataka
+KTM,KTM Duke 200,2017,80000,Yes,Anakapalli, Andhra Pradesh
+Royal Enfield,Royal Enfield Meteor 350 Supernova,2025,280000,Yes,Valsad, Gujarat
+Honda,Honda Hness CB 350,2023,190000,Yes,"Sholinganallur, Chennai", Tamil Nadu
+Royal Enfield,Royal Enfield Continental GT 650 Twin,2021,280000,Yes,"Tadipatri, Anantapur", Andhra Pradesh
+Yamaha,Yamaha Aerox 155,2022,105000,Yes,Madurai, Tamil Nadu
+Yamaha,Yamaha YZF R15 V3 BS6,2020,75000,Yes,"Vilathikulam, Thoothukudi", Tamil Nadu
+Bajaj,Bajaj Pulsar 220F,2015,35000,Yes,"Velachery, Chennai", Tamil Nadu
+Royal Enfield,Royal Enfield Himalayan BS VI,2021,160000,Yes,Rangareddy, Telangana
+Bajaj,Bajaj Pulsar 150,2014,30000,Yes,Thane, Maharashtra
+TVS,TVS Apache RTR 200 4V,2021,91000,Yes,West Delhi, Delhi
+Hero,Hero Glamour 125 Disc,2023,65000,Yes,Howrah, West Bengal
+Avon,Avon E-Zap Dx,2023,60000,Yes,"Chinhat, Lucknow", Uttar Pradesh
+Royal Enfield,Royal Enfield Hunter 350 Metro,2023,152000,Yes,"Kochi, Ernakulam", Kerala
+TVS,TVS Apache RTR 160 2V Racing Edition,2023,125000,Yes,"Sikri, Faridabad", Haryana
+Honda,Honda Activa 5G,2019,50000,Yes,"Egra, East Medinipur", West Bengal
+Keeway,Keeway SR 125,2023,88000,Yes,Hyderabad, Telangana
+TVS,TVS Jupiter Classic 110,2016,40000,Yes,"Dum Dum, North 24 Parganas", West Bengal
+Hero,Hero Glamour Xtec,2023,78000,Yes,Agartala, Tripura
+KTM,KTM RC 200 2022,2021,170000,Yes,Lucknow, Uttar Pradesh
+Bajaj,Bajaj Avenger Street 180,2023,120000,Yes,Lucknow, Uttar Pradesh
+Royal Enfield,Royal Enfield Thunderbird 500,2015,100000,Yes,"Alibag, Raigad", Maharashtra
+TVS,TVS Raider 125,2021,50000,Yes,South East Delhi, Delhi
+Royal Enfield,Royal Enfield Thunderbird X 350,2018,100000,Yes,Pune, Maharashtra
+TVS,TVS Ronin DS,2025,135000,Yes,Vijayawada, Andhra Pradesh
+Royal Enfield,Royal Enfield Classic,2023,210000,Yes,"Delhi Cantonment, New Delhi", Delhi
+Royal Enfield,Royal Enfield Thunderbird 500,2015,120000,Yes,Mumbai, Maharashtra
+Honda,Honda CB Unicorn,2020,75000,Yes,"Mulund, Mumbai", Maharashtra
+Honda,Honda Unicorn Dazzler,2010,10000,Yes,Chennai, Tamil Nadu
+TVS,TVS Apache RTR 200 4V,2018,55000,Yes,"Andheri East, Mumbai", Maharashtra
+Jawa,Jawa Jawa BS6,2022,160000,Yes,Ghaziabad, Uttar Pradesh
+Bajaj,Bajaj Avenger Cruise 220,2018,70000,Yes,"Hebbal, Bangalore", Karnataka
+Bajaj,Bajaj Pulsar AS 150,2016,52000,Yes,Indore, Madhya Pradesh
+Honda,Honda Dream Yuga,2014,20000,Yes,"Ambattur, Chennai", Tamil Nadu
+TVS,TVS NTORQ 125,2019,55000,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+Yamaha,Yamaha Fazer,2013,40000,Yes,Jaipur, Rajasthan
+Bajaj,Bajaj Pulsar NS 160,2017,80000,Yes,Bokaro, Jharkhand
+Yamaha,Yamaha R15M Monster Energy MotoGP Edition,2021,150000,Yes,Haridwar, Utarakhand
+Ola,Ola S1 Pro Gen2,2024,120000,Yes,"Ambattur, Chennai", Tamil Nadu
+TVS,TVS Apache RR 310,2019,135000,Yes,"Rau, Indore", Madhya Pradesh
+Bajaj,Bajaj Pulsar P150,2023,90000,Yes,Dharmapuri, Tamil Nadu
+Royal Enfield,Royal Enfield Hunter 350 Retro,2023,160000,Yes,New Delhi, Delhi
+Royal Enfield,Royal Enfield Hunter 350 Retro,2022,125000,Yes,"Baripada, Mayurbhanj", Orissa
+Yamaha,Yamaha FZ-S,2015,35000,Yes,Gurgaon, Haryana
+Royal Enfield,Royal Enfield Shotgun 650,2024,375000,Yes,Bangalore, Karnataka
+KTM,KTM Duke 125,2021,130000,Yes,Navi Mumbai, Maharashtra
+Bajaj,Bajaj Dominar 400 ABS BS6,2020,180000,Yes,East Delhi, Delhi
+Yamaha,Yamaha FZ-S FI V3 BS6,2022,120000,Yes,Pune, Maharashtra
+Hero,Hero,2021,55000,Yes,"Karhal, Mainpuri", Uttar Pradesh
+Yamaha,Yamaha MT-15 Ver 2.0,2023,155000,Yes,Chennai, Tamil Nadu
+Yamaha,Yamaha FZ-S FI V3,2021,85000,Yes,Chennai, Tamil Nadu
+Yamaha,Yamaha R15 V4,2023,200000,Yes,Muzaffarpur, Bihar
+Yamaha,Yamaha FZ16,2009,20000,Yes,Mumbai, Maharashtra
+Bajaj,Bajaj Pulsar 150 DTSi,2011,22000,Yes,Hyderabad, Telangana
+Husqvarna,Husqvarna Vitpilen 250 2024,2024,218500,Yes,Kolkata, West Bengal
+Vida,Vida V2 Lite,2025,85000,Yes,Lucknow, Uttar Pradesh
+Royal Enfield,Royal Enfield Classic 350 BS VI,2018,148000,Yes,"Pandalam, Pathanamthitta", Kerala
+TVS,TVS NTORQ 125 Race Edition,2023,85000,Yes,"Chembur, Mumbai", Maharashtra
+Bajaj,Bajaj Pulsar 150,2011,25000,Yes,Varanasi, Uttar Pradesh
+Honda,Honda Activa i,2017,25000,Yes,Gwalior, Madhya Pradesh
+Royal Enfield,Royal Enfield Classic 500,2016,100000,Yes,"Kundara, Kollam", Kerala
+Bajaj,Bajaj Discover 100T,2015,20000,Yes,"Bara, Allahabad", Uttar Pradesh
+TVS,TVS NTORQ 125 Race XP,2024,89000,Yes,Mumbai, Maharashtra
+Royal Enfield,Royal Enfield Classic 350 BS VI,2022,165000,Yes,"Rohini, North West Delhi", Delhi
+TVS,TVS Apache RR 310 2020,2020,200000,Yes,"Tirumalagiri, Hyderabad", Telangana
+Ola,Ola S1X Plus,2024,85000,Yes,South East Delhi, Delhi
+TVS,TVS Raider Split Seat,2023,100000,Yes,Pune, Maharashtra
+Honda,Honda Activa,2012,12000,Yes,North Delhi, Delhi
+Jawa,Jawa Perak,2022,145000,Yes,Gurgaon, Haryana
+Honda,Honda Activa 4G,2017,29000,Yes,Gorakhpur, Uttar Pradesh
+Jawa,Jawa forty two,2020,82000,Yes,Faridabad, Haryana
+TVS,TVS Star City Plus,2016,30000,Yes,Pimpri-Chinchwad, Maharashtra
+Suzuki,Suzuki Avenis Special Edition 2025,2023,70000,Yes,"Badshahpur, Gurgaon", Haryana
+Revolt,Revolt RV400 BRZ,2024,115000,Yes,Ahmedabad, Gujarat
+Yamaha,Yamaha Ray,2012,22000,Yes,Pimpri-Chinchwad, Maharashtra
+KTM,KTM Duke 250,2019,100000,Yes,Allahabad, Uttar Pradesh
+Ola,Ola S1 Pro,2022,90000,Yes,"Andheri East, Mumbai", Maharashtra
+TVS,TVS Apache RTR 160,2011,30000,Yes,Pimpri-Chinchwad, Maharashtra
+Royal Enfield,Royal Enfield Classic 500,2019,100000,Yes,Noida, Uttar Pradesh
+Bajaj,Bajaj Pulsar 220 DTSi,2014,57000,Yes,Indore, Madhya Pradesh
+BMW,BMW G 310 R,2018,145000,Yes,Hyderabad, Telangana
+TVS,TVS Apache RR 310,2019,145000,Yes,West Champaran, Bihar
+Honda,Honda Activa,2011,35000,Yes,Ahmedabad, Gujarat
+TVS,TVS iQube S,2022,110000,Yes,"Guindy, Chennai", Tamil Nadu
+Hero,Hero Splendor Plus Black and Accent,2022,60000,Yes,Gurgaon, Haryana
+KTM,KTM Duke 390 2024,2024,299999,Yes,Coimbatore, Tamil Nadu
+TVS,TVS Apache RTR 160 4V,2018,78000,Yes,"Sohna, Gurgaon", Haryana
+Honda,Honda Activa 4G,2017,42000,Yes,"Mulund, Mumbai", Maharashtra
+Ronflant,Ronflant Brisk,2024,45000,Yes,Kolkata, West Bengal
+Hero,Hero Xoom ZX,2023,75000,Yes,Shamli, Uttar Pradesh
+Keeway,Keeway SR 250,2024,175000,Yes,Coimbatore, Tamil Nadu
+TVS,TVS Apache RTR 160,2017,43000,Yes,"Barasat, North 24 Parganas", West Bengal
+Bajaj,Bajaj Avenger Street 180,2018,45000,Yes,Thane, Maharashtra
+Royal Enfield,Royal Enfield Interceptor 650 Twin,2019,350000,Yes,Ghaziabad, Uttar Pradesh
+TVS,TVS Sport,2023,52000,Yes,Thane, Maharashtra
+Jawa,Jawa forty two,2021,120000,Yes,Kolkata, West Bengal
+Suzuki,Suzuki Access 125 Special Edition,2019,49000,Yes,Varanasi, Uttar Pradesh
+Bajaj,Bajaj Pulsar 150 DTSi,2015,40000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Meteor 350 Stellar,2022,185000,Yes,Noida, Uttar Pradesh
+Royal Enfield,Royal Enfield Super Meteor 650,2023,350000,Yes,Jalpaiguri, West Bengal
+Bajaj,Bajaj Freedom 125 NG04 Disc LED,2024,105000,Yes,"Andheri East, Mumbai", Maharashtra
+Suzuki,Suzuki Access 125,2013,50000,Yes,Bhopal, Madhya Pradesh
+TVS,TVS Apache RR 310,2023,225000,Yes,"Hadapsar, Pune", Maharashtra
+Royal Enfield,Royal Enfield Classic 350 Redditch Red,2023,200000,Yes,"Sarjapur Road, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Thunderbird 350,2017,110000,Yes,Meerut, Uttar Pradesh
+Hero,Hero Splendor Plus IBS i3s,2020,50000,Yes,"Nangal Chaudhary, Mahendragarh", Haryana
+Ather,Ather 450X,2022,110000,Yes,Indore, Madhya Pradesh
+Yamaha,Yamaha FZS 25,2021,99000,Yes,Kolkata, West Bengal
+Hero,Hero Passion XTec,2023,75000,Yes,Kolkata, West Bengal
+Royal Enfield,Royal Enfield Classic 350,2019,150000,Yes,"Electronic City, Bangalore", Karnataka
+Bajaj,Bajaj Pulsar 150,2015,40000,Yes,"Bally, Howrah", West Bengal
+Hero,Hero Splendor,2024,60000,Yes,Bangalore, Karnataka
+Royal Enfield,Royal Enfield Classic 500,2015,110000,Yes,New Delhi, Delhi
+Royal Enfield,Royal Enfield Continental GT 650 Twin,2020,280000,Yes,Gorakhpur, Uttar Pradesh
+TVS,TVS Ronin DS,2023,110000,Yes,Noida, Uttar Pradesh
+Royal Enfield,Royal Enfield Classic 350,2015,105000,Yes,Bangalore, Karnataka
+Royal Enfield,Royal Enfield 2023 Bullet 350,2023,230000,Yes,"Manwal, Udhampur", Jammu Kashmir
+Bajaj,Bajaj Platina 100 ES,2021,50000,Yes,"Thuraiyur, Tiruchirappalli", Tamil Nadu
+TVS,TVS Apache RTR 180 BS6,2022,90000,Yes,Bangalore, Karnataka
+KTM,KTM Duke 250 2024,2024,290000,Yes,"Yelahanka, Bangalore", Karnataka
+Honda,Honda CBF Stunner,2016,35000,Yes,Nagpur, Maharashtra
+Royal Enfield,Royal Enfield Bullet Standard 350,2018,150000,Yes,New Delhi, Delhi
+Yamaha,Yamaha FZ16,2015,30000,Yes,Guntur, Andhra Pradesh
+Honda,Honda Navi,2016,20000,Yes,Bangalore, Karnataka
+Hero,Hero Super Splendor,2021,60000,Yes,Nagaur, Rajasthan
+Bajaj,Bajaj Pulsar RS 200 ABS,2018,95000,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+Honda,Honda Activa 6G Std,2021,50000,Yes,Hyderabad, Telangana
+Bajaj,Bajaj Avenger Street 160,2019,59000,Yes,Jharsuguda, Orissa
+TVS,TVS Apache RTR 160 4V BS6,2021,75000,Yes,Faridabad, Haryana
+KTM,KTM 390 Adventure 2022,2022,299000,Yes,Pimpri-Chinchwad, Maharashtra
+KTM,KTM 390 Adventure,2020,225000,Yes,"Rudrapur, Udham Singh Nagar", Utarakhand
+TVS,TVS Apache RTR 160 4V Special Edition,2022,110000,Yes,Jaipur, Rajasthan
+Hero,Hero Maestro,2016,30000,Yes,"Khatima, Udham Singh Nagar", Utarakhand
+Hero,Hero Splendor Plus,2006,25000,Yes,"Yelahanka, Bangalore", Karnataka
+Bajaj,Bajaj CT 125X,2023,70000,Yes,"Mira-Bhayandar, Thane", Maharashtra
+Revolt,Revolt RV 400,2023,110000,Yes,Ahmedabad, Gujarat
+Honda,Honda CB350 DLX,2021,175000,Yes,"HSR Layout, Bangalore", Karnataka
+TVS,TVS Jupiter,2016,45000,Yes,"Hadapsar, Pune", Maharashtra
+Kawasaki,Kawasaki Ninja 300 BS6 2023,2023,250000,Yes,Hyderabad, Telangana
+Yezdi,Yezdi Scrambler Dual Tone,2022,150000,Yes,Jamnagar, Gujarat
+Royal Enfield,Royal Enfield Classic 350,2017,130000,Yes,"Alibag, Raigad", Maharashtra
+Hero,Hero XPulse 200,2021,86000,Yes,Thanjavur, Tamil Nadu
+Bajaj,Bajaj Avenger Cruise 220 BS6,2021,95000,Yes,Kolkata, West Bengal
+Royal Enfield,Royal Enfield Thunderbird 350,2017,70000,Yes,"Asansol, Paschim Bardhaman", West Bengal
+Hero,Hero Passion Pro,2012,17500,Yes,Gurgaon, Haryana
+Hero,Hero Splendor Plus XTEC 2.0,2025,87000,Yes,New Delhi, Delhi
+Honda,Honda Hness CB 350,2024,220000,Yes,Kolkata, West Bengal
+TVS,TVS Raider SX,2024,90000,Yes,Aurangabad, Bihar
+Honda,Honda QC1,2025,90000,Yes,"Banashankari, Bangalore", Karnataka
+TVS,TVS NTORQ 125 Race XP,2024,90000,Yes,"Wadi, Gulbarga", Karnataka
+Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2021,200000,Yes,Chennai, Tamil Nadu
+Yezdi,Yezdi Adventure Gloss 2024,2024,195000,Yes,Ghaziabad, Uttar Pradesh
+Ather,Ather Rizta Z,2024,100000,Yes,"Sanganer, Jaipur", Rajasthan
+Bajaj,Bajaj Pulsar 125,2019,64000,Yes,Nashik, Maharashtra
+Bajaj,Bajaj 2021 Dominar 400,2021,165000,Yes,"Kochi, Ernakulam", Kerala
+Bajaj,Bajaj Avenger 220 DTS-i,2014,47500,Yes,"Kharar, Mohali", Punjab
+Jawa,Jawa  42 bobber,2023,180000,Yes,Ghaziabad, Uttar Pradesh
+Honda,Honda CB300F Deluxe,2023,140000,Yes,Indore, Madhya Pradesh
+Hero,Hero Maestro Edge,2018,38000,Yes,"Byasanagar, Jajpur", Orissa
+Royal Enfield,Royal Enfield Classic 350,2015,130000,Yes,Bangalore, Karnataka
+Yamaha,Yamaha FZ-S FI V3,2020,65000,Yes,Idukki, Kerala
+Hero,Hero CBZ Xtreme,2013,35000,Yes,Ahmedabad, Gujarat
+TVS,TVS NTORQ 125 XT,2023,105000,Yes,Jaipur, Rajasthan
+Hero,Hero Passion Pro,2017,40000,Yes,"Barauni, Begusarai", Bihar
+Jawa,Jawa Perak,2020,150000,Yes,South West Delhi, Delhi
+Hero,Hero Splendor iSmart,2016,25000,Yes,Nellore, Andhra Pradesh
+Hero,Hero Passion XTec,2022,65000,Yes,Madurai, Tamil Nadu
+Bajaj,Bajaj Dominar 250,2022,160000,Yes,Seoni, Madhya Pradesh
+Royal Enfield,Royal Enfield Classic Stealth Black,2022,190000,Yes,Jhajjar, Haryana
+Jawa,Jawa 42 Bobber Black Mirror,2024,200000,Yes,Pune, Maharashtra
+Aprilia,Aprilia RS 457,2024,420000,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+BMW,BMW G 310 RR,2023,250000,Yes,Hazaribag, Jharkhand
+Jawa,Jawa forty two,2019,140000,Yes,Hosur, Tamil Nadu
+TVS,TVS Apache RTR 160 4V,2018,80000,Yes,"Devanahalli, Bangalore", Karnataka
+Bajaj,Bajaj Avenger Cruise 220,2020,90000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Hunter 350 Metro,2023,160000,Yes,Kolkata, West Bengal
+Bajaj,Bajaj Platina ComforTec 100 ES BS6,2018,39999,Yes,"Najafgarh, South West Delhi", Delhi
+Royal Enfield,Royal Enfield Thunderbird 350,2017,125000,Yes,Pimpri-Chinchwad, Maharashtra
+Royal Enfield,Royal Enfield Thunderbird 350,2018,250000,Yes,"Velachery, Chennai", Tamil Nadu
+TVS,TVS Sport BS6,2021,35000,Yes,Ghaziabad, Uttar Pradesh
+Yamaha,Yamaha MT-15 Ver 2.0,2022,178000,Yes,"Marathahalli, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Hunter 350 Retro,2024,185000,Yes,"Pathargama, Godda", Jharkhand
+Yamaha,Yamaha YZF R15 V3,2018,95000,Yes,Pune, Maharashtra
+TVS,TVS Scooty Zest,2019,25000,Yes,"Shaikpet, Hyderabad", Telangana
+Ola,Ola S1 Pro,2023,80000,Yes,New Delhi, Delhi
+Yamaha,Yamaha YZF R15 V2,2017,90000,Yes,Tiruchirappalli, Tamil Nadu
+Honda,Honda Activa 6G Dlx,2022,50000,Yes,Sabar Kantha, Gujarat
+Suzuki,Suzuki Burgman Street EX,2023,100000,Yes,"Bhandup, Mumbai", Maharashtra
+TVS,TVS Apache RTR 160 4V,2020,100000,Yes,Dehradun, Utarakhand
+Suzuki,Suzuki Access 125,2010,15000,Yes,"Nelamangala, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Hunter 350 Metro,2024,175000,Yes,"Maraimalai Nagar, Chengalpattu", Tamil Nadu
+Hero,Hero Xtreme 160R,2022,90000,Yes,Jhunjhunu, Rajasthan
+Yezdi,Yezdi Adventure Gloss,2022,200000,Yes,Thane, Maharashtra
+Hero,Hero Pleasure Plus 110,2019,41000,Yes,Ranchi, Jharkhand
+Hero,Hero Passion XTec,2020,55000,Yes,Madhubani, Bihar
+Ola,Ola S1X Plus,2023,80000,Yes,Mumbai, Maharashtra
+Revolt,Revolt RV 400,2022,50000,Yes,Ghaziabad, Uttar Pradesh
+Honda,Honda Activa 4G,2017,40000,Yes,Thane, Maharashtra
+Honda,Honda Activa 3G,2015,35000,Yes,"Dhrangadhra, Surendranagar", Gujarat
+Yamaha,Yamaha YZF R15 S V3.0,2023,180000,Yes,Virudhunagar, Tamil Nadu
+Bajaj,Bajaj Pulsar NS 125,2021,70000,Yes,Indore, Madhya Pradesh
+Kawasaki,Kawasaki Z900 2022,2021,880000,Yes,"Banashankari, Bangalore", Karnataka
+Evtric,Evtric Ride,2023,50000,Yes,Mumbai, Maharashtra
+Triumph,Triumph Speed 400 2025,2025,265000,Yes,Gurgaon, Haryana
+Yamaha,Yamaha RayZR Street Rally 125 Fi Hybrid 2024,2024,85000,Yes,Chhindwara, Madhya Pradesh
+Royal Enfield,Royal Enfield Super Meteor 650,2024,350000,Yes,New Delhi, Delhi
+Triumph,Triumph Scrambler 400 X,2024,250000,Yes,Vadodara, Gujarat
+Royal Enfield,Royal Enfield Bullet 350,2017,95000,Yes,Bareilly, Uttar Pradesh
+Bajaj,Bajaj Pulsar 135LS,2013,26000,Yes,"Hinjewadi, Pune", Maharashtra
+TVS,TVS Raider Split Seat,2022,85000,Yes,Hisar, Haryana
+TVS,TVS NTORQ 125 Race Edition BS6,2021,58000,Yes,"Alipur, North Delhi", Delhi
+BMW,BMW G 310 R,2022,240000,Yes,Mumbai, Maharashtra
+Triumph,Triumph Speed 400,2023,220000,Yes,Ludhiana, Punjab
+Royal Enfield,Royal Enfield Hunter 350 Metro,2024,195000,Yes,Nagpur, Maharashtra
+Yamaha,Yamaha R15 V4,2023,180000,Yes,Jalgaon, Maharashtra
+Suzuki,Suzuki Gixxer SP,2017,65000,Yes,"Wakad, Pune", Maharashtra
+Royal Enfield,Royal Enfield Classic 350 BS VI,2022,200000,Yes,"Bannerghatta Road, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Hunter 350 Metro,2023,170000,Yes,Lucknow, Uttar Pradesh
+Bajaj,Bajaj Pulsar N250 2024,2024,140000,Yes,Bangalore, Karnataka
+Royal Enfield,Royal Enfield Bullet 350,2015,80000,Yes,"Jayanagar, Bangalore", Karnataka
+Yamaha,Yamaha FZ-S,2014,35000,Yes,Chennai, Tamil Nadu
+KTM,KTM Duke 390,2018,150000,Yes,"Secunderabad, Hyderabad", Telangana
+Hero,Hero Super Splendor Canvas Black Edition,2022,60000,Yes,Panipat, Haryana
+Hero,Hero Super Splendor XTEC,2023,85000,Yes,Bangalore, Karnataka
+Jawa,Jawa forty two,2020,100000,Yes,"Noida, Gautam Buddha Nagar", Uttar Pradesh
+Bajaj,Bajaj Avenger Street 160,2024,90000,Yes,Mysore, Karnataka
+Yamaha,Yamaha Cygnus Ray ZR,2018,45000,Yes,Jamshedpur, Jharkhand
+Yamaha,Yamaha FZ-S,2013,20000,Yes,Gurgaon, Haryana
+Royal Enfield,Royal Enfield Classic Stealth Black,2020,150000,Yes,"Anna Nagar, Chennai", Tamil Nadu
+Honda,Honda CBR 150R,2014,36000,Yes,Pune, Maharashtra
+TVS,TVS Sport BS6,2024,55000,Yes,North East Delhi, Delhi
+Yamaha,Yamaha R15 V4,2022,140000,Yes,"Ambattur, Chennai", Tamil Nadu
+Royal Enfield,Royal Enfield Bullet Electra,2005,35000,Yes,Ahmedabad, Gujarat
+Hero,Hero Xtreme Sports,2016,25000,Yes,Noida, Uttar Pradesh
+KTM,KTM RC 390,2016,140000,Yes,"Bhopani, Faridabad", Haryana
+Ola,Ola S1 Pro,2022,75000,Yes,Faridabad, Haryana
+Ola,Ola S1 Air 3kWh,2023,65000,Yes,"Krishnanagar, Nadia", West Bengal
+Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2022,190000,Yes,Ballia, Uttar Pradesh
+TVS,TVS Apache RTR 200 4V ABS,2020,65000,Yes,"Marathahalli, Bangalore", Karnataka
+Bajaj,Bajaj Dominar 400,2017,120000,Yes,Begusarai, Bihar
+Yamaha,Yamaha FZ FI V3 BS6,2020,65000,Yes,"Jolarpet, Tirupattur", Tamil Nadu
+Hero,Hero Passion Plus,2010,20000,Yes,"Poonamallee, Tiruvallur", Tamil Nadu
+KTM,KTM Duke 250 2022,2022,190000,Yes,Gurgaon, Haryana
+Bajaj,Bajaj Freedom 125 NG04 Drum LED,2024,105000,Yes,Bangalore, Karnataka
+Bajaj,Bajaj Pulsar N160,2023,70000,Yes,Lucknow, Uttar Pradesh
+Husqvarna,Husqvarna Svartpilen 250,2021,138000,Yes,Guwahati, Assam
+Hero,Hero Hunk,2011,30000,Yes,Hyderabad, Telangana
+Royal Enfield,Royal Enfield Classic Gunmetal Grey,2020,159999,Yes,Allahabad, Uttar Pradesh
+Royal Enfield,Royal Enfield Interceptor 650 Twin,2020,240000,Yes,Patna, Bihar
+Hero,Hero Xpulse 200 4V,2022,120000,Yes,Faridabad, Haryana
+Honda,Honda Hness CB350 DLX Pro,2020,135000,Yes,Hyderabad, Telangana
+Suzuki,Suzuki Gixxer SF 250 BS6,2023,160000,Yes,Pune, Maharashtra
+TVS,TVS NTORQ 125 Race Edition BS6,2022,75000,Yes,Bangalore, Karnataka
+KOMAKI,KOMAKI Flora,2024,55000,Yes,"Secunderabad, Hyderabad", Telangana
+Royal Enfield,Royal Enfield Meteor 350,2020,160000,Yes,Hyderabad, Telangana
+Bajaj,Bajaj Pulsar NS 160,2020,78600,Yes,Aurangabad, Maharashtra
+Hero,Hero Electric Optima CX2.0,2022,55000,Yes,Kolkata, West Bengal
+Honda,Honda Activa 6G H-smart,2024,90000,Yes,"Velachery, Chennai", Tamil Nadu
+Royal Enfield,Royal Enfield Thunderbird 500,2015,100000,Yes,Hyderabad, Telangana
+BMW,BMW G 310 R,2020,211000,Yes,"Bandra West, Mumbai", Maharashtra
+Royal Enfield,Royal Enfield Meteor 350 Fireball,2022,210000,Yes,Bangalore, Karnataka
+Royal Enfield,Royal Enfield Classic 350,2017,140999,Yes,Jammu, Jammu Kashmir
+Bajaj,Bajaj Avenger 200 DTS-i,2013,21777,Yes,Surat, Gujarat
+Vespa,Vespa VXL 125,2015,35000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Classic Signals Stormrider Sand,2020,190000,Yes,"Lakhna, Etawah", Uttar Pradesh
+Yezdi,Yezdi Roadster Dark,2022,160000,Yes,Bilaspur, Himachal Pradesh
+Hero,Hero Electric Optima HX Dual Battery,2021,65000,Yes,Hyderabad, Telangana
+Royal Enfield,Royal Enfield Hunter 350 Metro,2024,200000,Yes,Udupi, Karnataka
+Hero,Hero Xtreme 200S,2019,60000,Yes,"Chembur, Mumbai", Maharashtra
+Bajaj,Bajaj Platina 110 ABS,2023,65000,Yes,Trivandrum, Kerala
+TVS,TVS Apache RTR 160 4V,2022,100000,Yes,Nashik, Maharashtra
+Yamaha,Yamaha YZF R1M,2023,180000,Yes,"Kakdwip, South 24 Parganas", West Bengal
+Suzuki,Suzuki Burgman Street EX 2025,2025,120000,Yes,"Rajpur Sonarpur, South 24 Parganas", West Bengal
+Ola,Ola S1 Pro,2023,80000,Yes,"Yelahanka, Bangalore", Karnataka
+Hero,Hero Xtreme 160R,2020,52000,Yes,Faridabad, Haryana
+Harley,Harley Davidson X440 Vivid,2023,275000,Yes,Hyderabad, Telangana
+Jawa,Jawa 42 Dual Channel ABS Cosmic Carbon,2021,150000,Yes,Pune, Maharashtra
+Honda,Honda Livo Disc,2019,45000,Yes,Ghaziabad, Uttar Pradesh
+Honda,Honda Activa 5G,2019,55000,Yes,Hyderabad, Telangana
+Royal Enfield,Royal Enfield Thunderbird 350,2016,65000,Yes,Dhanbad, Jharkhand
+Bajaj,Bajaj Chetak Electric,2024,85000,Yes,Pune, Maharashtra
+Hero,Hero 2023 HF Deluxe,2023,44000,Yes,Amroha, Uttar Pradesh
+Bajaj,Bajaj Pulsar 150,2019,60000,Yes,Bhopal, Madhya Pradesh
+KTM,KTM RC 200 2022,2022,215000,Yes,"Uzhavarkarai, Pondicherry", Pondicherry
+Hero,Hero Mavrick 440,2024,200000,Yes,Akola, Maharashtra
+Ola,Ola S1 Air 3kWh,2024,95000,Yes,"Hadapsar, Pune", Maharashtra
+TVS,TVS Jupiter SmartXonnect Disc 2024,2025,100000,Yes,Mathura, Uttar Pradesh
+Hero,Hero Maestro Edge,2017,55000,Yes,"Angamaly, Ernakulam", Kerala
+Honda,Honda Shine 125 Disc,2012,22000,Yes,"Nedumangad, Trivandrum", Kerala
+Royal Enfield,Royal Enfield Shotgun 650,2024,400000,Yes,Lucknow, Uttar Pradesh
+KTM,KTM Duke 200,2016,60000,Yes,Kolkata, West Bengal
+BMW,BMW G 310 RR,2022,300000,Yes,"Hebbal, Bangalore", Karnataka
+TVS,TVS Apache,2019,79500,Yes,Bangalore, Karnataka
+Jawa,Jawa 42 Dual Channel ABS AllStar Black,2022,200000,Yes,Ahmedabad, Gujarat
+Bajaj,Bajaj Pulsar 125,2023,60000,Yes,"Pilana, Bagpat", Uttar Pradesh
+Honda,Honda Activa 4G,2018,45000,Yes,"Hinjewadi, Pune", Maharashtra
+Suzuki,Suzuki Access 125,2014,20000,Yes,Theni, Tamil Nadu
+TVS,TVS Apache RTR 200 4V,2017,50000,Yes,"Ambattur, Chennai", Tamil Nadu
+Honda,Honda Activa 125,2021,50000,Yes,South Delhi, Delhi
+Hero,Hero Karizma XMR,2023,180000,Yes,Karimnagar, Telangana
+Suzuki,Suzuki Access 125 Special Edition,2015,30000,Yes,Ahmedabad, Gujarat
+Honda,Honda CB350 DLX Pro,2023,215000,Yes,Jalna, Maharashtra
+Yamaha,Yamaha FZ-S FI V3 BS6,2021,110000,Yes,Ludhiana, Punjab
+Bajaj,Bajaj Pulsar N250 Dual Channel ABS,2022,90000,Yes,Madurai, Tamil Nadu
+Vespa,Vespa SXL 125 BS6,2021,85000,Yes,Howrah, West Bengal
+Yamaha,Yamaha YZF R15 V3,2019,150000,Yes,Bikaner, Rajasthan
+Bajaj,Bajaj Chetak Urbane Standard,2022,60000,Yes,Pune, Maharashtra
+Revolt,Revolt RV 400,2023,110000,Yes,Chennai, Tamil Nadu
+Yamaha,Yamaha Fazer 125,2015,35000,Yes,Jaipur, Rajasthan
+Royal Enfield,Royal Enfield Scram 411,2023,180000,Yes,Coimbatore, Tamil Nadu
+Honda,Honda SP125,2019,65000,Yes,Mumbai, Maharashtra
+Honda,Honda Aviator,2018,50000,Yes,"Ghatal, Paschim Medinipur", West Bengal
+Bajaj,Bajaj Pulsar 150,2015,38000,Yes,Bhopal, Madhya Pradesh
+Bajaj,Bajaj Pulsar 220F BS6,2023,115000,Yes,Aurangabad, Maharashtra
+Bajaj,Bajaj Avenger Cruise 220,2017,75000,Yes,"Mira-Bhayandar, Thane", Maharashtra
+Honda,Honda CB Hornet 160R,2016,45000,Yes,Amritsar, Punjab
+Hero,Hero CD Deluxe,2005,35000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Hunter 350 Metro,2022,175000,Yes,North 24 Parganas, West Bengal
+Honda,Honda Activa,2024,55000,Yes,Mumbai, Maharashtra
+Vier,Vier Model V4,2021,30000,Yes,Ahmedabad, Gujarat
+Royal Enfield,Royal Enfield Hunter 350 Metro,2024,180000,Yes,"Ongole, Prakasam", Andhra Pradesh
+Honda,Honda Dream Yuga,2015,25000,Yes,Erode, Tamil Nadu
+Hero,Hero Xtreme 160R 4V Pro,2024,120000,Yes,"Ambattur, Chennai", Tamil Nadu
+Bajaj,Bajaj Pulsar NS125 2022,2022,75000,Yes,"Khair, Aligarh", Uttar Pradesh
+Royal Enfield,Royal Enfield Thunderbird X 500,2019,150000,Yes,Jalandhar, Punjab
+Suzuki,Suzuki Access 125 Special Edition,2018,40000,Yes,Srinagar, Jammu Kashmir
+KOMAKI,KOMAKI X-One,2025,29000,Yes,"Mayur Vihar, East Delhi", Delhi
+Yamaha,Yamaha Aerox 155,2023,132000,Yes,Coimbatore, Tamil Nadu
+Royal Enfield,Royal Enfield 2022 Meteor 350,2022,195000,Yes,"Shaikpet, Hyderabad", Telangana
+Bajaj,Bajaj Pulsar NS 200 BS6,2022,118000,Yes,"Badgam, Srinagar", Jammu Kashmir
+Yamaha,Yamaha Fazer,2014,50000,Yes,Ludhiana, Punjab
+Jawa,Jawa 42 Bobber Black Mirror,2023,199000,Yes,"Secunderabad, Hyderabad", Telangana
+Aprilia,Aprilia SR 160 Race ABS,2023,95000,Yes,"Tirumalagiri, Hyderabad", Telangana
+Harley,Harley Davidson X 440,2025,300000,Yes,Bhilwara, Rajasthan
+Yamaha,Yamaha R15 V4,2023,170000,Yes,"Kanjhawala, North West Delhi", Delhi
+Suzuki,Suzuki Gixxer SF Fi,2020,90000,Yes,Kolkata, West Bengal
+Honda,Honda Shine 125,2022,50000,Yes,"Mehrauli, South Delhi", Delhi
+Bajaj,Bajaj Avenger Street 160,2019,65000,Yes,"Wakad, Pune", Maharashtra
+Bajaj,Bajaj Pulsar NS 125,2022,110000,Yes,Thane, Maharashtra
+Hero,Hero Glamour 125 Disc,2017,45000,Yes,Noida, Uttar Pradesh
+BMW,BMW G 310 R BS6,2021,215000,Yes,Ernakulam, Kerala
+Hero,Hero Xtreme 160R Stealth Edition,2022,40000,Yes,Ghaziabad, Uttar Pradesh
+KTM,KTM RC 125,2021,129999,Yes,"Ruksin, East Siang", Arunachal Pradesh
+Royal Enfield,Royal Enfield Classic 350,2018,90000,Yes,"Punhana, Mewat", Haryana
+Honda,Honda Shine 125,2010,15000,Yes,Tiruvallur, Tamil Nadu
+Suzuki,Suzuki V-Strom SX,2025,210000,Yes,"Dahisar, Mumbai", Maharashtra
+Honda,Honda CB Shine SP,2017,30000,Yes,Munger, Bihar
+Ducati,Ducati Scrambler Icon,2017,430000,Yes,"Anna Nagar, Chennai", Tamil Nadu
+Suzuki,Suzuki Gixxer SF 250 BS6,2023,180000,Yes,"Mapusa, North Goa", Goa
+Yezdi,Yezdi Scrambler Dual Tone,2022,168000,Yes,"Balussery, Kozhikode", Kerala
+Ola,Ola S1 Pro,2023,85000,Yes,West Delhi, Delhi
+Yamaha,Yamaha MT-15 Ver 2.0,2024,140000,Yes,Ghaziabad, Uttar Pradesh
+Honda,Honda CB350RS DLX Pro 2025,2025,220000,Yes,Pune, Maharashtra
+Honda,Honda Shine,2014,30000,Yes,Chennai, Tamil Nadu
+Royal Enfield,Royal Enfield Bullet Electra,2008,50000,Yes,"Sundar Nagar, Mandi", Himachal Pradesh
+Bajaj,Bajaj Chetak 3502 Standard,2025,120000,Yes,"Mahabaleshwar, Satara", Maharashtra
+Royal Enfield,Royal Enfield Meteor 350 Stellar,2022,165000,Yes,Allahabad, Uttar Pradesh
+Yezdi,Yezdi Roadster Dark,2022,180000,Yes,"Burhar, Shahdol", Madhya Pradesh
+Bajaj,Bajaj Pulsar 125 Neon,2021,55000,Yes,Kanpur, Uttar Pradesh
+Hero,Hero HF Deluxe i3s,2023,65000,Yes,"Ambattur, Chennai", Tamil Nadu
+Hero,Hero Cycles Lectro C4+,2025,25000,Yes,Chennai, Tamil Nadu
+Royal Enfield,Royal Enfield Hunter 350 Retro,2022,160000,Yes,"Yelahanka, Bangalore", Karnataka
+Ola,Ola S1 Pro Gen2,2024,110000,Yes,"Dhaulana, Hapur", Uttar Pradesh
+Royal Enfield,Royal Enfield Thunderbird 350,2016,120000,Yes,"Electronic City, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Thunderbird X 350,2018,120000,Yes,Kolhapur, Maharashtra
+Yamaha,Yamaha R15 V4,2023,150000,Yes,Deoria, Uttar Pradesh
+Hero,Hero Xtreme 160R,2021,75000,Yes,"Wai, Satara", Maharashtra
+Bajaj,Bajaj Pulsar 200 NS,2020,115000,Yes,Belgaum, Karnataka
+Honda,Honda CB Unicorn,2014,100000,Yes,South Delhi, Delhi
+Royal Enfield,Royal Enfield Hunter 350 Metro,2023,150000,Yes,Noida, Uttar Pradesh
+Vespa,Vespa 125,2013,30000,Yes,Mumbai, Maharashtra
+Bajaj,Bajaj Pulsar 150 DTSi,2017,50000,Yes,Kolkata, West Bengal
+Royal Enfield,Royal Enfield Classic 350,2017,121000,Yes,Begusarai, Bihar
+Hero,Hero Pleasure,2017,30000,Yes,"Danapur, Patna", Bihar
+Bajaj,Bajaj Avenger 180 DTS-i,2006,30000,Yes,"Aluva, Ernakulam", Kerala
+Honda,Honda Activa 6G Dlx,2025,110000,Yes,Hyderabad, Telangana
+Bajaj,Bajaj Avenger Street 160 BS6,2022,83000,Yes,"Dankuni, Hooghly", West Bengal
+Jawa,Jawa 42 FJ,2025,260000,Yes,"Khairatabad, Hyderabad", Telangana
+Bajaj,Bajaj Pulsar 150,2012,40000,Yes,Shillong, Meghalaya
+Bajaj,Bajaj Avenger Street 150,2017,50000,Yes,Kolkata, West Bengal
+Hero,Hero Xtreme 160R,2022,100000,Yes,Banka, Bihar
+Honda,Honda XBlade,2018,60000,Yes,Mumbai, Maharashtra
+Bajaj,Bajaj Pulsar 200 NS,2018,80000,Yes,Mumbai, Maharashtra
+Benelli,Benelli Imperiale 400,2020,130000,Yes,"Bhiwandi, Thane", Maharashtra
+Bajaj,Bajaj Pulsar 150 DTSi,2019,60000,Yes,"Murthal, Sonipat", Haryana
+Bajaj,Bajaj Avenger Street 160 BS6,2022,100000,Yes,Malda, West Bengal
+Yamaha,Yamaha FZ-S,2023,115000,Yes,Lucknow, Uttar Pradesh
+Honda,Honda Shine 125,2009,10000,Yes,"Bhavani, Erode", Tamil Nadu
+TVS,TVS Raider 125,2024,80000,Yes,Jodhpur, Rajasthan
+Suzuki,Suzuki Gixxer SF Fi,2018,60000,Yes,Budaun, Uttar Pradesh
+Jawa,Jawa forty two,2023,120000,Yes,"Hathin, Palwal", Haryana
+Yamaha,Yamaha YZF R15 S,2019,60000,Yes,"Kalyani, Nadia", West Bengal
+Royal Enfield,Royal Enfield Continental GT 650,2024,350000,Yes,Navi Mumbai, Maharashtra
+Bajaj,Bajaj Dominar 250 2022,2024,200000,Yes,"Islampur, North Dinajpur", West Bengal
+Royal Enfield,Royal Enfield Classic 350,2017,100000,Yes,New Delhi, Delhi
+Yamaha,Yamaha YZF R15 V3,2020,120000,Yes,"Palladam, Tirupur", Tamil Nadu
+Jawa,Jawa 42 Dual Channel ABS Orion Red,2021,99000,Yes,"Badkhal, Faridabad", Haryana
+Yamaha,Yamaha FZ,2014,52500,Yes,Udupi, Karnataka
+Royal Enfield,Royal Enfield Classic 350 BS VI,2020,175000,Yes,Bangalore, Karnataka
+Royal Enfield,Royal Enfield Continental GT 650,2022,325000,Yes,"Ambattur, Chennai", Tamil Nadu
+Hero,Hero Glamour PGM Fi,2018,50000,Yes,"Arjuni Morgaon, Gondia", Maharashtra
+Yamaha,Yamaha FZ-S FI V3,2021,80000,Yes,Vadodara, Gujarat
+Bajaj,Bajaj Avenger Street 220,2016,49200,Yes,"Annur, Coimbatore", Tamil Nadu
+Ola,Ola S1 Pro,2022,85000,Yes,Pimpri-Chinchwad, Maharashtra
+Royal Enfield,Royal Enfield Classic 350 BS VI,2022,150000,Yes,North 24 Parganas, West Bengal
+Honda,Honda CB300F,2022,145000,Yes,"Indiranagar, Bangalore", Karnataka
+Vespa,Vespa VX 125,2014,25000,Yes,Udaipur, Rajasthan
+Bajaj,Bajaj Pulsar NS200,2022,110000,Yes,"Whitefield, Bangalore", Karnataka
+Honda,Honda Activa 125 BS6,2020,52000,Yes,Balangir, Orissa
+Royal Enfield,Royal Enfield Hunter 350 Metro,2023,175000,Yes,Thane, Maharashtra
+Hero,Hero Glamour BS6,2020,65000,Yes,Hyderabad, Telangana
+Yezdi,Yezdi Adventure Gloss 2024,2024,189000,Yes,Jabalpur, Madhya Pradesh
+Benelli,Benelli TNT 300,2020,240000,Yes,Anakapalli, Andhra Pradesh
+Hero,Hero Xtreme 125R,2025,100000,Yes,"Saraipali, Mahasamund", Chhattisgarh
+Honda,Honda SP 125 BSVI,2024,85000,Yes,Jodhpur, Rajasthan
+Honda,Honda SP 125 BSVI,2024,90000,Yes,"Wakad, Pune", Maharashtra
+Suzuki,Suzuki Gixxer 250,2020,110000,Yes,Bhopal, Madhya Pradesh
+TVS,TVS Raider 125,2021,70000,Yes,Kolkata, West Bengal
+Honda,Honda Activa 3G,2015,26000,Yes,"Sanganer, Jaipur", Rajasthan
+Hero,Hero HF Deluxe i3s,2021,50000,Yes,"Wakad, Pune", Maharashtra
+TVS,TVS Apache RTR 160 4V,2019,70000,Yes,Hathras, Uttar Pradesh
+Royal Enfield,Royal Enfield Thunderbird,2016,75000,Yes,Raigad, Maharashtra
+Yamaha,Yamaha Fazer,2010,30000,Yes,Ambala, Haryana
+Honda,Honda Activa,2009,15000,Yes,Ambala, Haryana
+KTM,KTM RC 390,2015,171000,Yes,"Malad, Mumbai", Maharashtra
+Honda,Honda CB350 DLX Pro,2023,190000,Yes,Gurgaon, Haryana
+Bajaj,Bajaj V15,2017,30000,Yes,Mangalore, Karnataka
+Okinawa,Okinawa Ridge,2019,40000,Yes,Chennai, Tamil Nadu
+TVS,TVS Apache RR 310,2022,240000,Yes,Bhopal, Madhya Pradesh
+Yamaha,Yamaha FZ16,2013,32000,Yes,Vadodara, Gujarat
+Kawasaki,Kawasaki Ninja 300 BS6,2024,350000,Yes,"Harhua, Varanasi", Uttar Pradesh
+Bajaj,Bajaj Pulsar 125 Neon Disc Single Seat,2024,85000,Yes,Sagar, Madhya Pradesh
+Bajaj,Bajaj Pulsar 150,2019,60000,Yes,Ujjain, Madhya Pradesh
+Royal Enfield,Royal Enfield Himalayan 2021,2022,270000,Yes,"Dwarka, South West Delhi", Delhi
+Ola,Ola S1X 3 kWh,2024,75000,Yes,"Harhua, Varanasi", Uttar Pradesh
+Hero,Hero Cycles Lectro C5x,2024,23000,Yes,"KR Puram, Bangalore", Karnataka
+TVS,TVS Apache RTR 200 4V Race Edition 2.0,2018,60000,Yes,Bangalore, Karnataka
+Yezdi,Yezdi Roadster Dual Tone,2023,185000,Yes,Solan, Himachal Pradesh
+Bajaj,Bajaj Dominar 250 2022,2022,125000,Yes,"Junnar, Pune", Maharashtra
+TVS,TVS Apache RTR 180,2017,60000,Yes,Bangalore, Karnataka
+Bajaj,Bajaj Pulsar 180,2012,25000,Yes,"Goregaon, Mumbai", Maharashtra
+Suzuki,Suzuki Gixxer 150,2017,50000,Yes,Chennai, Tamil Nadu
+Royal Enfield,Royal Enfield Meteor 350 Stellar,2023,180000,Yes,Guwahati, Assam
+Royal Enfield,Royal Enfield Thunderbird 350,2014,65000,Yes,Pune, Maharashtra
+Yamaha,Yamaha R15 V4,2023,182000,Yes,"BTM Layout, Bangalore", Karnataka
+Yamaha,Yamaha YZF R15 V3 BS6,2020,105000,Yes,"Vikhroli, Mumbai", Maharashtra
+Yamaha,Yamaha R15M,2023,190000,Yes,Vadodara, Gujarat
+Royal Enfield,Royal Enfield Super Meteor 650,2024,449000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Classic 350,2023,220000,Yes,"Dadar, Mumbai", Maharashtra
+Hero,Hero Passion XTec,2022,58000,Yes,Amritsar, Punjab
+TVS,TVS NTORQ 125 XT,2022,90000,Yes,Kolkata, West Bengal
+Okinawa,Okinawa R30,2022,40000,Yes,"Banashankari, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Himalayan 450,2025,300000,Yes,"Wakad, Pune", Maharashtra
+Royal Enfield,Royal Enfield Hunter 350 Retro,2025,190000,Yes,Hyderabad, Telangana
+Yezdi,Yezdi Roadster Dual Tone,2023,160000,Yes,Mumbai, Maharashtra
+Triumph,Triumph Speed 400,2024,220000,Yes,Gurgaon, Haryana
+Benelli,Benelli Imperiale 400 BS6,2020,120000,Yes,Jaipur, Rajasthan
+KTM,KTM Duke 390,2021,250000,Yes,"Hebbal, Bangalore", Karnataka
+Yezdi,Yezdi Roadster Dark,2022,200000,Yes,Hosur, Tamil Nadu
+Ola,Ola S1,2022,80000,Yes,Bangalore, Karnataka
+Hero,Hero Maestro Edge,2016,50000,Yes,Baleswar, Orissa
+Yamaha,Yamaha FZ-S FI V2,2014,40000,Yes,Shahdara, Delhi
+Royal Enfield,Royal Enfield Thunderbird 350,2015,70000,Yes,Bangalore, Karnataka
+Yamaha,Yamaha R15 V4,2023,180000,Yes,Satna, Madhya Pradesh
+Bajaj,Bajaj Dominar 400 ABS BS6,2022,240000,Yes,"Berhampore, Murshidabad", West Bengal
+Hero,Hero Xtreme 125R,2025,110000,Yes,Bangalore, Karnataka
+Suzuki,Suzuki Gixxer 150,2015,75000,Yes,"Harihar, Davangere", Karnataka
+Bajaj,Bajaj XCD 125 DTS-Si,2007,6000,Yes,"Pataudi, Gurgaon", Haryana
+Honda,Honda Activa,2011,21000,Yes,Lucknow, Uttar Pradesh
+TVS,TVS Apache RTR 160 4V,2024,95000,Yes,Sundergarh, Orissa
+UM,UM Renegade Commando,2017,50000,Yes,Gurgaon, Haryana
+KTM,KTM Duke 250 2022,2022,151999,Yes,Mumbai, Maharashtra
+Yamaha,Yamaha FZ-X Hybrid,2023,120000,Yes,Hyderabad, Telangana
+Hero,Hero Xtreme 160R 2024 Edition,2024,145000,Yes,New Delhi, Delhi
+TVS,TVS Ronin TD,2023,140000,Yes,Madhubani, Bihar
+Yamaha,Yamaha Cygnus Ray ZR,2020,70000,Yes,Varanasi, Uttar Pradesh
+Ola,Ola S1 Pro,2023,102000,Yes,Navi Mumbai, Maharashtra
+Honda,Honda CB Unicorn,2012,49000,Yes,"Pathardi, Ahmednagar", Maharashtra
+Ola,Ola S1 Pro Gen2,2023,115000,Yes,Coimbatore, Tamil Nadu
+Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2023,125000,Yes,Hyderabad, Telangana
+Honda,Honda Unicorn,2010,35000,Yes,"Alandur, Chennai", Tamil Nadu
+Bajaj,Bajaj Avenger Cruise 220 BS6,2020,100000,Yes,"Dera Bassi, Mohali", Punjab
+BMW,BMW G 310 R,2019,220000,Yes,Bangalore, Karnataka
+Yezdi,Yezdi Adventure Matte,2022,185000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Himalayan,2018,100000,Yes,Navi Mumbai, Maharashtra
+Royal Enfield,Royal Enfield Meteor 350 Supernova,2020,230000,Yes,Mysore, Karnataka
+Royal Enfield,Royal Enfield Classic Desert Storm,2018,155000,Yes,"Godhra, Panch Mahals", Gujarat
+Yamaha,Yamaha R15 V4,2023,175000,Yes,Coimbatore, Tamil Nadu
+TVS,TVS Apache RTR 200 4V ABS,2020,95000,Yes,"Electronic City, Bangalore", Karnataka
+Yezdi,Yezdi Roadster Dark,2024,160000,Yes,Noida, Uttar Pradesh
+TVS,TVS Apache RTR 160 4V,2018,55000,Yes,Thane, Maharashtra
+Suzuki,Suzuki Gixxer SP,2016,45000,Yes,Hyderabad, Telangana
+Yamaha,Yamaha R15M,2023,180000,Yes,Bareilly, Uttar Pradesh
+TVS,TVS Apache RTR 160 4V BS6,2020,90000,Yes,Khammam, Telangana
+Benelli,Benelli TNT 25,2017,110000,Yes,"KR Puram, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Classic Gunmetal Grey,2021,160000,Yes,Lucknow, Uttar Pradesh
+Royal Enfield,Royal Enfield Classic 350 BS VI,2020,160000,Yes,Coimbatore, Tamil Nadu
+Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2022,111000,Yes,Jaipur, Rajasthan
+Royal Enfield,Royal Enfield Hunter 350 Retro,2022,250000,Yes,Jaipur, Rajasthan
+Hero,Hero HF Deluxe BS6,2022,75000,Yes,Hyderabad, Telangana
+Hero,Hero Splendor Plus Xtec,2023,80000,Yes,"Ambattur, Chennai", Tamil Nadu
+Yamaha,Yamaha R15 V4,2025,220000,Yes,Chennai, Tamil Nadu
+Hero,Hero Splendor Plus,2005,25000,Yes,Bangalore, Karnataka
+Royal Enfield,Royal Enfield Interceptor 650 Twin,2020,257000,Yes,Nellore, Andhra Pradesh
+Yamaha,Yamaha FZ FI V3 BS6,2022,90000,Yes,"Rajajinagar, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Thunderbird 350,2011,30000,Yes,Chennai, Tamil Nadu
+Jawa,Jawa Perak,2021,170000,Yes,Kaithal, Haryana
+Royal Enfield,Royal Enfield Hunter Rebel,2022,165000,Yes,North Delhi, Delhi
+Bajaj,Bajaj Discover 125 ST,2013,32000,Yes,Bangalore, Karnataka
+TVS,TVS Apache RTR 200 4V 2020,2020,80000,Yes,"Saket, South Delhi", Delhi
+Honda,Honda Shine 125,2025,85000,Yes,South Delhi, Delhi
+Yamaha,Yamaha Aerox 155,2024,130000,Yes,Ghaziabad, Uttar Pradesh
+Royal Enfield,Royal Enfield Thunderbird 350,2016,120000,Yes,Pune, Maharashtra
+TVS,TVS Victor,2017,31000,Yes,"Sarita Vihar, South East Delhi", Delhi
+TVS,TVS Raider 125,2024,95000,Yes,Hyderabad, Telangana
+TVS,TVS Apache RTR 200 4V ABS,2024,140000,Yes,Mumbai, Maharashtra
+TVS,TVS Apache RTR 160 4V,2022,75000,Yes,Gautam Buddha Nagar, Uttar Pradesh
+Royal Enfield,Royal Enfield Hunter 350 Retro,2023,170000,Yes,Pune, Maharashtra
+Vespa,Vespa LX 125,2018,50000,Yes,Noida, Uttar Pradesh
+Royal Enfield,Royal Enfield Classic Squadron Blue,2019,150000,Yes,Kolkata, West Bengal
+Bicycle,Bicycle EMotorad,2024,20000,No,Baleswar, Orissa
+Bajaj,Bajaj Dominar 400,2017,90000,Yes,Lucknow, Uttar Pradesh
+Bajaj,Bajaj Pulsar 150 DTSi,2011,30000,Yes,"Thrippunithura, Ernakulam", Kerala
+Benelli,Benelli Imperiale 400 BS6,2021,155000,Yes,Bangalore, Karnataka
+Royal Enfield,Royal Enfield Classic 350 2024,2024,198000,Yes,Ranchi, Jharkhand
+Bajaj,Bajaj Pulsar NS 160,2020,80000,Yes,Indore, Madhya Pradesh
+Bajaj,Bajaj Pulsar 150,2011,16000,Yes,"Perumbavoor, Ernakulam", Kerala
+Bajaj,Bajaj Pulsar 180,2011,30000,Yes,Aligarh, Uttar Pradesh
+TVS,TVS Apache RR 310 2020,2020,190000,Yes,Faridabad, Haryana
+Bajaj,Bajaj Pulsar NS200,2017,65000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Bullet 350 ES BS6,2023,195000,Yes,Pune, Maharashtra
+Vespa,Vespa VX 125,2014,40000,Yes,"T. Nagar, Chennai", Tamil Nadu
+Hero,Hero Xtreme,2013,35000,Yes,Lucknow, Uttar Pradesh
+Hero,Hero Passion Pro BS6,2021,79000,Yes,Tirupur, Tamil Nadu
+Royal Enfield,Royal Enfield Meteor 350 Fireball,2023,210000,Yes,Bangalore, Karnataka
+Ather,Ather 450X Gen 3,2023,100000,Yes,East Delhi, Delhi
+Bajaj,Bajaj Pulsar NS 125,2023,60000,Yes,Dahod, Gujarat
+Hero,Hero Pleasure Plus BS6,2023,77000,Yes,Pune, Maharashtra
+Bajaj,Bajaj Pulsar 125,2022,80000,Yes,Guwahati, Assam
+TVS,TVS Apache RTR 160,2019,80000,Yes,Anand, Gujarat
+Royal Enfield,Royal Enfield Hunter 350 Metro,2023,155000,Yes,Gurgaon, Haryana
+TVS,TVS Apache RTR 180,2013,50000,Yes,"Krishnanagar, Nadia", West Bengal
+Royal Enfield,Royal Enfield 2023 Bullet 350,2023,210000,Yes,Pune, Maharashtra
+Suzuki,Suzuki Gixxer 150,2019,100000,Yes,"HSR Layout, Bangalore", Karnataka
+Royal Enfield,Royal Enfield Interceptor 650 Twin,2022,300000,Yes,Pune, Maharashtra
+Bajaj,Bajaj Pulsar 150 DTSi,2018,50000,Yes,Erode, Tamil Nadu
+TVS,TVS Apache RTR 160 4V,2019,63100,Yes,"Taliparamba, Kannur", Kerala
+Yezdi,Yezdi Adventure Gloss,2023,190000,Yes,Rohtak, Haryana
+Benelli,Benelli Imperiale 400 BS6,2020,200000,Yes,"Rajajinagar, Bangalore", Karnataka
+BMW,BMW G 310 R,2019,190000,Yes,Madurai, Tamil Nadu
+TVS,TVS Jupiter 125,2022,80000,Yes,"Kudal, Sindhudurg", Maharashtra
+TVS,TVS Star City 110,2019,48000,Yes,Krishnagiri, Tamil Nadu
+TVS,TVS Apache RTR 160,2016,35000,Yes,Bilaspur, Chhattisgarh
+Honda,Honda Hness CB350 DLX Pro,2021,150000,Yes,"Andheri East, Mumbai", Maharashtra
+KTM,KTM Duke 250,2021,160000,Yes,Gurgaon, Haryana
+TVS,TVS XL Super Heavy Duty,2010,7000,Yes,Raipur, Chhattisgarh
+Royal Enfield,Royal Enfield Classic 500,2015,120000,Yes,"Mussoorie, Dehradun", Utarakhand
+Yamaha,Yamaha SZ-X,2011,21000,Yes,Surat, Gujarat
+Keeway,Keeway K-Light 250V,2024,370000,Yes,"Sarjapur Road, Bangalore", Karnataka
+Hero,Hero Xtreme 160R Stealth Edition,2022,90000,Yes,Indore, Madhya Pradesh
+Royal Enfield,Royal Enfield Classic 350 Redditch Blue,2018,150000,Yes,Rohtak, Haryana
+Royal Enfield,Royal Enfield Meteor 350 Fireball,2023,200000,Yes,Hyderabad, Telangana
+Bajaj,Bajaj Pulsar 150 DTSi,2018,35000,Yes,Bhagalpur, Bihar
+BGauss,BGauss C12i Max,2023,90000,Yes,Pune, Maharashtra
+Yamaha,Yamaha FZ-X,2021,95000,Yes,West Delhi, Delhi
+Hero,Hero Mavrick 440,2024,195000,Yes,Chennai, Tamil Nadu
+Yamaha,Yamaha FZ-S,2012,38000,Yes,"Vasundhara, Ghaziabad", Uttar Pradesh
+Royal Enfield,Royal Enfield Hunter 350 Metro,2022,170000,Yes,Pune, Maharashtra
+Royal Enfield,Royal Enfield Bullet 350,2023,165000,Yes,New Delhi, Delhi
+Royal Enfield,Royal Enfield Classic 350 Single Channel BS6,2021,175000,Yes,"Preet Vihar, East Delhi", Delhi
+Benelli,Benelli Imperiale 400,2020,160000,Yes,Mysore, Karnataka
+TVS,TVS NTORQ 125 BS6,2021,52000,Yes,Ahmedabad, Gujarat
+Bajaj,Bajaj Avenger Street 150,2017,60000,Yes,Jaipur, Rajasthan
+BMW,BMW G 310 R,2023,310000,Yes,"Konavattam, Vellore", Tamil Nadu
+TVS,TVS Raider Split Seat,2024,95000,Yes,"Roorkee, Haridwar", Utarakhand
+Bajaj,Bajaj Pulsar AS 150,2015,40000,Yes,Pune, Maharashtra
+Yamaha,Yamaha FZ25,2019,150000,Yes,Haveri, Karnataka
+Mahindra,Mahindra Gusto,2015,30000,Yes,Bangalore, Karnataka
+Hero,Hero Pleasure Plus BS6,2021,40000,Yes,Kolkata, West Bengal
+TVS,TVS Apache RTR 180,2016,52000,Yes,Sivasagar, Assam
+Royal Enfield,Royal Enfield Himalayan,2021,150000,Yes,"Mulund East, Mumbai", Maharashtra
+Kawasaki,Kawasaki W175 Street,2024,160000,Yes,"HSR Layout, Bangalore", Karnataka
+TVS,TVS Apache RTR 160,2015,45000,Yes,Indore, Madhya Pradesh
+Royal Enfield,Royal Enfield Hunter 350 Metro,2023,190000,Yes,Pune, Maharashtra
+Yamaha,Yamaha R15M,2022,150000,Yes,"Palampur, Kangra", Himachal Pradesh
+Honda,Honda Activa 125 BS6,2020,66000,Yes,"Kandivali, Mumbai", Maharashtra
+Ampere,Ampere Magnus Ex,2022,40000,Yes,Hyderabad, Telangana
+Mahindra,Mahindra Gusto,2017,40000,Yes,East Delhi, Delhi
+Ola,Ola S1 Air,2024,85000,Yes,"HSR Layout, Bangalore", Karnataka
+Bajaj,Bajaj Pulsar 180 DTSi,2016,40000,Yes,Navi Mumbai, Maharashtra
+Honda,Honda Shine,2012,15000,Yes,Noida, Uttar Pradesh
+Royal Enfield,Royal Enfield Classic 350,2016,110000,Yes,Ranchi, Jharkhand
+Bajaj,Bajaj Chetak Blue 2901 Tecpac,2024,82000,Yes,"Wakad, Pune", Maharashtra
+Yamaha,Yamaha Fazer FI V2,2017,45000,Yes,Chennai, Tamil Nadu
+BGauss,BGauss B8 Lithium Ion,2022,20000,Yes,Vijayawada, Andhra Pradesh
+Bajaj,Bajaj Avenger Cruise 220,2018,50000,Yes,"Rajajinagar, Bangalore", Karnataka
+Ola,Ola S1 Pro Gen2,2023,100000,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+Royal Enfield,Royal Enfield Thunderbird 350,2016,100000,Yes,Ahmedabad, Gujarat
+Ola,Ola S1 Pro,2023,120000,Yes,"Hubballi, Dharwad", Karnataka
+Yamaha,Yamaha FZ-S FI Hybrid,2025,156000,Yes,Faridabad, Haryana
+Jawa,Jawa 42 Dual Channel ABS Cosmic Carbon,2023,160000,Yes,Bhubaneshwar, Orissa
+Bajaj,Bajaj Pulsar 135LS,2010,25000,Yes,"Borivali, Mumbai", Maharashtra
+Bajaj,Bajaj Pulsar NS 160,2017,60000,Yes,"Hadapsar, Pune", Maharashtra
+Triumph,Triumph Trident 660,2021,750000,Yes,Bangalore, Karnataka
+Yamaha,Yamaha MT-15 MotoGP Edition,2024,180000,Yes,New Delhi, Delhi
+Bajaj,Bajaj Pulsar,2024,115000,Yes,"Marathahalli, Bangalore", Karnataka
+Yamaha,Yamaha Fazer FI V2,2018,50000,Yes,Bilaspur, Chhattisgarh
+TVS,TVS Apache RTR 160 4V,2018,55000,Yes,"Ranebennur, Haveri", Karnataka
+Ola,Ola S1 Pro,2023,120000,Yes,Hyderabad, Telangana
+Bajaj,Bajaj Pulsar 125,2020,45000,Yes,Purnia, Bihar
+TVS,TVS NTORQ 125,2020,38000,Yes,East Delhi, Delhi
+Yamaha,Yamaha R15M,2024,230000,Yes,Hyderabad, Telangana
+Jawa,Jawa Perak BS6,2022,210000,Yes,Bangalore, Karnataka
+Bajaj,Bajaj Pulsar 220F BS6,2020,90000,Yes,Navi Mumbai, Maharashtra
+TVS,TVS Jupiter BS6,2021,60000,Yes,Tirupati, Andhra Pradesh
+Yamaha,Yamaha SZ-R,2012,20000,Yes,Thane, Maharashtra
+Jawa,Jawa Perak BS6,2023,235000,Yes,Meerut, Uttar Pradesh
+Hero,Hero XPulse 200T,2021,59999,Yes,Didwana-Kuchaman, Rajasthan
+Ola,Ola S1X Plus,2024,80000,Yes,"Banashankari, Bangalore", Karnataka
+Triumph,Triumph Bonneville T100,2019,540000,Yes,Pune, Maharashtra
+Pure,Pure EV Etrance Neo,2022,30000,Yes,"Andheri West, Mumbai", Maharashtra
+Honda,Honda Dio BS6,2021,90000,Yes,"Rajajinagar, Bangalore", Karnataka
+Honda,Honda Activa 4G,2017,35000,Yes,"Ambarnath, Thane", Maharashtra
+Mahindra,Mahindra Gusto,2015,25000,Yes,Kolkata, West Bengal
+TVS,TVS Apache RTR 200 4V ABS,2021,100000,Yes,"Dombivli, Thane", Maharashtra
+Honda,Honda Shine 125 Drum,2023,75000,Yes,Bharuch, Gujarat
+TVS,TVS Ronin TD,2022,140000,Yes,Pune, Maharashtra
+TVS,TVS Jupiter Classic,2018,50000,Yes,"Daund, Pune", Maharashtra
+Honda,Honda SP 125 BSVI,2020,65000,Yes,Rewari, Haryana
+Honda,Honda Unicorn,2023,110000,Yes,"Hadapsar, Pune", Maharashtra
+Royal Enfield,Royal Enfield Meteor 350,2023,210000,Yes,Tirupattur, Tamil Nadu
+Royal Enfield,Royal Enfield Classic 350,2019,110000,Yes,New Delhi, Delhi
+TVS,TVS Apache RTR 160 4V BS6,2020,70000,Yes,Howrah, West Bengal
+Yamaha,Yamaha FZ-S,2011,25000,Yes,Thane, Maharashtra
+Jawa,Jawa Jawa,2021,100000,Yes,Jamshedpur, Jharkhand
+Yezdi,Yezdi Adventure Gloss 2024,2024,240000,Yes,Jamnagar, Gujarat
+Bajaj,Bajaj Platina 100 ES BS6,2023,60000,Yes,Medak, Telangana
+Royal Enfield,Royal Enfield Bullet 350 ES BS6,2022,160000,Yes,"Dasuya, Hoshiarpur", Punjab
+Okinawa,Okinawa Praise,2022,25000,Yes,"Hebbal, Bangalore", Karnataka
+Hero,Hero Karizma ZMR,2010,21000,Yes,"Gandhinagar, Ahmedabad", Gujarat
+Yamaha,Yamaha YZF R15 V3 BS6,2021,120000,Yes,Medchal, Telangana
+Harley,Harley Davidson Street 750,2017,350000,Yes,Pune, Maharashtra
+Bajaj,Bajaj Avenger Street 150,2017,73000,Yes,Navi Mumbai, Maharashtra
+Okinawa,Okinawa Ridge,2019,15000,Yes,"Sholinganallur, Chennai", Tamil Nadu
+TVS,TVS Apache RTR 180,2023,85000,Yes,"Bodh Gaya, Gaya", Bihar
+Royal Enfield,Royal Enfield Bullet 350 ES BS6,2020,130000,Yes,Bahraich, Uttar Pradesh
+Vespa,Vespa LX 125,2012,26000,Yes,"Banashankari, Bangalore", Karnataka
+Yamaha,Yamaha FZ-S FI V3,2021,70000,Yes,Kadapa, Andhra Pradesh
+Bajaj,Bajaj Pulsar RS 200 ABS,2015,60000,Yes,Ghaziabad, Uttar Pradesh
+Yamaha,Yamaha FZ-S FI Ver 4.0 DLX,2023,100000,Yes,New Delhi, Delhi
+Yamaha,Yamaha MT-15,2021,150000,Yes,"Doiwala, Dehradun", Utarakhand
+TVS,TVS Apache RTR 200 4V Race Edition 2.0,2019,80000,Yes,"Karjat, Raigad", Maharashtra
+Hero,Hero Glamour Xtec,2023,78000,Yes,"Bodh Gaya, Gaya", Bihar
+Honda,Honda Activa 125,2025,100000,Yes,Pimpri-Chinchwad, Maharashtra
+Suzuki,Suzuki Intruder 150,2018,60000,Yes,"Kalyanpur, Kanpur Nagar", Uttar Pradesh
+TVS,TVS Apache RTR 160 4V BS6,2023,110000,Yes,Erode, Tamil Nadu
+Bajaj,Bajaj Dominar 250,2024,195000,Yes,Nandurbar, Maharashtra
+TVS,TVS iQube 2.2kWh 2025,2024,85000,Yes,Hyderabad, Telangana
+Bajaj,Bajaj Avenger Street 220,2016,50000,Yes,Dehradun, Utarakhand
+Yamaha,Yamaha Aerox 155 Version S,2024,145000,Yes,New Delhi, Delhi
+Bajaj,Bajaj Avenger 220 DTS-i,2014,35000,Yes,Hyderabad, Telangana
+Honda,Honda Shine 125,2019,70900,Yes,Bhubaneshwar, Orissa
+KTM,KTM RC 200,2016,90000,Yes,Rohtak, Haryana
+Honda,Honda CBF Stunner,2014,20000,Yes,"Nasirabad, Ajmer", Rajasthan
+Jawa,Jawa Perak BS6,2022,140000,Yes,South East Delhi, Delhi
+Yezdi,Yezdi Adventure Matte,2023,140000,Yes,"Chabua, Dibrugarh", Assam
+Honda,Honda XBlade BS6,2020,80000,Yes,Navi Mumbai, Maharashtra
+TVS,TVS NTORQ 125 Race Edition,2022,75000,Yes,Bangalore, Karnataka
+Honda,Honda Hornet 2.0,2021,85000,Yes,"Kalyan, Thane", Maharashtra
+TVS,TVS Apache RR 310,2021,180000,Yes,Ahmedabad, Gujarat
+Bicycle,Bicycle  Gsports Triton mx,2025,24000,No,Bangalore, Karnataka
+Honda,Honda CB350 DLX Pro,2020,180000,Yes,"Kunigal, Tumkur", Karnataka
+Honda,Honda CBR 250R,2015,75000,Yes,"Bihar Sharif, Nalanda", Bihar
+Royal Enfield,Royal Enfield Thunderbird 350,2017,92000,Yes,Kolkata, West Bengal
+Okinawa,Okinawa Ridge Plus,2023,40000,Yes,"Dwarka, South West Delhi", Delhi
+TVS,TVS NTORQ,2018,40000,Yes,Mumbai, Maharashtra
+Bajaj,Bajaj Pulsar 125 Neon Disc Single Seat,2020,60000,Yes,"Bansberia, Hooghly", West Bengal
+Bajaj,Bajaj CT 100,2020,42000,Yes,Hyderabad, Telangana
+Honda,Honda CB Hornet 160R,2016,55000,Yes,Jaipur, Rajasthan
+Hero,Hero Passion Pro,2014,22000,Yes,South Delhi, Delhi
+Triumph,Triumph Speed T4,2025,250000,Yes,"Electronic City, Bangalore", Karnataka
+TVS,TVS Sport BS6,2021,48000,Yes,Noida, Uttar Pradesh
+Yamaha,Yamaha R15 V4,2023,140000,Yes,Ghaziabad, Uttar Pradesh
+Royal Enfield,Royal Enfield Classic 350,2018,125000,Yes,"Kayamkulam, Alappuzha", Kerala
+Yamaha,Yamaha YZF R1,2023,165000,Yes,"Bhusawal, Jalgaon", Maharashtra
+TVS,TVS Apache RTR 160 4V,2023,99999,Yes,Hardoi, Uttar Pradesh
+Hero,Hero XPulse 200T BS6,2020,85000,Yes,Pimpri-Chinchwad, Maharashtra
+Yezdi,Yezdi Roadster Dark,2022,150000,Yes,Guwahati, Assam
+Yamaha,Yamaha YZF R15 V3,2019,108000,Yes,Madurai, Tamil Nadu
+Yamaha,Yamaha FZS 25 BS6,2021,115000,Yes,"Dadar, Mumbai", Maharashtra
+TVS,TVS Apache RTR 160 4V 2024,2024,120000,Yes,"Narkatiaganj, West Champaran", Bihar
+KTM,KTM RC 125 2020,2020,130000,Yes,Rewari, Haryana
